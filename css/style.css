@@ -1,0 +1,43 @@
+@import url("components/avatar.css");
+@import url("components/btn-orange.css");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Literata");
+
+
+body{
+	background-color: #F6F1F1;
+	font-size: 16px;
+	font-family: 'Crimson Pro', serif;
+	margin: 0px;
+} 
+
+h1, h2, h3{
+	font-family: 'Literata', serif;
+}
+
+h1{
+	font-size: 37px;
+	line-height: 1;
+	letter-spacing: 1px;
+	font-weight: bold;
+	color: #000000;
+}
+h2{
+	font-size: 23px;
+	line-height: 1.8;
+	letter-spacing: 1px;
+	font-weight: 600;
+	color: #000000;
+} 
+
+
+a{
+	text-decoration: none;
+}
+
+p{
+	font-size: 17px;
+	color: #000000;
+}
